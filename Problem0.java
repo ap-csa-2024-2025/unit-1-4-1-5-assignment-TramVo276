@@ -5,6 +5,6 @@ public class Problem0
    double someValue = 6;
    System.out.print(someValue);
    int otherValue = 3.9;
-   System.out.print(otherValue)
+   System.out.print(otherValue);
   }
 }
