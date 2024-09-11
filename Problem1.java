@@ -5,20 +5,20 @@ public class Problem1
         int intitialValue = 24;
         System.out.println("Initial value: " + intitialValue);
         intitialValue++;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue++;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue++;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue++;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue--;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue--;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue--;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
         intitialValue--;
-        System.out.print("number is now " + intitialValue);
+        System.out.println("number is now " + intitialValue);
     }
 }
