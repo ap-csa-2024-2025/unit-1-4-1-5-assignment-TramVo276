@@ -3,8 +3,22 @@ public class Problem1
     public static void main (String[] args)
     {
         int intitialValue = 24;
-        int fristNum = intitialValue++;
-        System.out.println(intitialValue);
-        System.out.print(fristNum);
+        System.out.println("Initial value: " + intitialValue);
+        intitialValue++;
+        System.out.print("number is now " + intitialValue);
+        intitialValue++;
+        System.out.print("number is now " + intitialValue);
+        intitialValue++;
+        System.out.print("number is now " + intitialValue);
+        intitialValue++;
+        System.out.print("number is now " + intitialValue);
+        intitialValue--;
+        System.out.print("number is now " + intitialValue);
+        intitialValue--;
+        System.out.print("number is now " + intitialValue);
+        intitialValue--;
+        System.out.print("number is now " + intitialValue);
+        intitialValue--;
+        System.out.print("number is now " + intitialValue);
     }
 }
